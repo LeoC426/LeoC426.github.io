@@ -1,18 +1,14 @@
 ---
-title: "Willkommen!"
+title: "Leonardo Correa"
 image: "herzl.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
-  - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Leo_Correa2604"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "lcorrea@lcg.unam.mx"
 output:
   postcards::onofre
 ---
